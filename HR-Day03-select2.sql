@@ -145,3 +145,4 @@ ORDER BY 3;
 SELECT last_name, job_id, department_id, salary
 FROM employees
 ORDER BY department_id, salary DESC;
+
